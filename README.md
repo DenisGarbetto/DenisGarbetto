@@ -26,7 +26,7 @@
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="60px" 
     style="padding-right: 10px;" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" />
 
@@ -35,7 +35,7 @@
      align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="60px" 
     style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 
@@ -44,7 +44,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
      align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="60px" 
     style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 
@@ -53,7 +53,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
      align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="60px" 
     style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 
